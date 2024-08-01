@@ -58,3 +58,5 @@ The main function controls the program's execution:
 - Initializes the necessary data structures.
 - Runs Prim's algorithm starting from the root vertex.
 - Prints the MST and the total minimum cost.
+
+For the complete code and more details, visit the [GitHub repository](https://github.com/Layman806-zz/MST-Prim).
